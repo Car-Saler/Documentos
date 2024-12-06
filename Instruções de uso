@@ -1,0 +1,23 @@
+# Instruções de uso
+
+1.	Insira o nome do vendedor
+
+2.	Após isso, o menu principal será exibido 
+ 
+3.	Comece cadastrando um veículo, segundo as informações solicitadas.
+ 
+4.	O sistema está pronto para uso. Nele pode-se ver os carros cadastrados, seja numa lista ou através de filtros (foram cadastrados novos veículos para visualização)
+ 
+5.	Para filtrar, o usuário pode optar por ver apenas os carros que possuam uma cor em específico, por faixa de idade, pela marca ou pelo país de origem.
+ 
+6.	O sistema oferece a possibilidade de se filtrar por faixa de preço e por faixa de quilometragem 
+ 
+7.	Caso o usuário tenha digitado alguma informação errada ao cadastrar algum carro ou algum carro foi retirado da loja, ele pode ser excluído do sistema. 
+ 
+8.	Ao realizar alguma venda, basta seguir os passos do sistema, inserindo as informações solicitadas. O sistema informa o valor pelo qual o carro foi adquirido pela loja antes de solicitar o valor da venda. A comissão do vendedor é calculada sobre o lucro da venda, e o próprio usuário pode inserir a comissão da venda. 
+  
+9.	Finalizando todos os processos de venda, o vendedor pode analisar todos os seus resultados.
+
+10.	E assim o sistema pode continuar operando, cadastrando novos veículos e realizando vendas, facilitando o gerenciamento do estoque e as vendas, já fazendo todos os cálculos necessários para o vendedor.
+
+11.	Para encerrar o sistema, basta escolher a opção “sair”
