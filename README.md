@@ -1,5 +1,5 @@
-# Documentos
-Documentação do projeto
+# Car Saler
+Sistema de gerenciamento de vendas e estoque
 
 ## Objetivos do Projeto
 Este projeto consiste no desenvolvimento de um sistema de gestão de estoque e vendas para uma revendedora de carros, que permita o gerenciamento eficiente de um estoque de veículos, desde o cadastro até a venda. Esse sistema oferece uma interface para cadastrar novos carros, listar estes veículos por diferentes filtros, como marca, ano, faixa de preço e quilometragem, registrar vendas. Além disso, ele também exibe informações financeiras, como o lucro obtido em determinada venda, cálculo da comissão do vendedor e um relatório detalhado do que foi obtido nas vendas. Com uma estrutura orientada a objetos em Java, o projeto visa a otimização dos processos internos, facilitando a tomada de decisões e aumentando a visibilidade sobre o desempenho das vendas e do estoque disponível.
